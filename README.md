@@ -11,7 +11,7 @@ This application is designed to assist in the pre-triage process at a healthcare
 
 <br />
 
-## OverView
+## Overview
 The PreTriage application consists of several modules that handle different aspects of the pre-triage process. Here's a brief overview of each module:
 - **PreTriage**: Manages the overall flow of the pre-triage process, including registration, admission, and lineup management.
 - **Patient**: Represents a patient with relevant information such as name, OHIP number, arrival time, and symptoms.
