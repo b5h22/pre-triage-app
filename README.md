@@ -24,6 +24,9 @@ The PreTriage application consists of several modules that handle different aspe
 - **Utils**: Contains utility functions used throughout the application.
 - **App-TestX.cpp**: Test applications to evaluate different scenarios of the pre-triage process.
 
+![classes](https://github.com/b5h22/pre-triage-app/assets/137153211/da3abd57-7cf3-42d9-9f93-cd9723e13e8d)
+
+
 <br />
 
 ## Encapsulation, Inheritance, and Polymorphism
